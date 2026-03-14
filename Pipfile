@@ -17,6 +17,7 @@ sentence-transformers = "*"
 langchain-classic = "*"
 langchain-text-splitters = "*"
 python-dotenv = "*"
+langfuse = "*"
 
 [dev-packages]
 
